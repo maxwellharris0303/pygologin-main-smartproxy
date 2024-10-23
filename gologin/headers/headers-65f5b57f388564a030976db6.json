@@ -1,0 +1,21 @@
+{
+    "authority": "bck.hermes.com",
+    "Accept": "application/json, text/plain, */*",
+    "accept-language": "en",
+    "Cookie": "x-xsrf-token=531db569-6aad-4166-8b6f-081dc97bca16;ECOM_SESS=itkqhgh3vzxsbjjnrjufjj094f;correlation_id=9dgbv0p41eghavkxqa8u4x2a3ov8pxa98xbzj5wj95nmlme6we4zy33acerb23gn;datadome=mUahnd4TWz1KEcgwC04Ic9bHUkApFNMTO_dtxaIQhrozmes5aa6cD5e3FpCYrBUGkY9iFXL89gLZ8M4lPs60iLrr59wuM9GrS0S7rzKOlWHOq1JDdofQoyf8AHQekVrU",
+    "Origin": "https://www.hermes.com",
+    "Referer": "https://www.hermes.com/",
+    "sec-ch-ua": "\"Not_A Brand\";v=\"8\", \"Chromium\";v=\"120\", \"Google Chrome\";v=\"120\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Linux\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "x-hermes-locale": "us_en",
+    "x-xsrf-token": "531db569-6aad-4166-8b6f-081dc97bca16",
+    "proxy_host": "gate.smartproxy.com",
+    "proxy_port": 10064,
+    "proxy_username": "sp8wy5vjtw",
+    "proxy_password": "Zqljtr90~nOcL7p3Jj"
+}
